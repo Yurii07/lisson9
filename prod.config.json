@@ -1,0 +1,10 @@
+{
+    "apps" : [
+      {
+        "name": "MY SUPER PROJECT",
+        "script": "npx",
+        "interpreter":"none",
+        "args": "serve -l 3123 -s build"
+      }
+    ]
+}
